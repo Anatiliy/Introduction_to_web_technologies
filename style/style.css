@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background: #fafaaa;
+    background: #50ff78a8;
     height: 240px;
     margin: 10px;
 }
@@ -22,7 +22,7 @@ h1 {
     width: 480px;
     height: 190px;
     margin: 10px;
-    background: #fafaaa;
+    background: #50ff78a8;
 }
 @media (min-width: 1000px) {
     header {
